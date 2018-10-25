@@ -1,2 +1,2 @@
 # hello-world
-깃허브 hello world (간단한 메시지 작성)
+깃허브 1 번째 브랜치입니다.
